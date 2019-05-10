@@ -1,0 +1,8 @@
+{
+  "name": "vscode-puppet-dev-container",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "jpogran.puppet-vscode",
+    "rebornix.Ruby"
+  ]
+}
